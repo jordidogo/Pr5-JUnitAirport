@@ -13,3 +13,5 @@ Evalúe la cobertura que tienen las pruebas unitarias del código con la ayuda d
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=jordidogo_Pr5-JUnitAirport&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=jordidogo_Pr5-JUnitAirport)
 
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jordidogo_Pr5-JUnitAirport&metric=coverage)](https://sonarcloud.io/summary/new_code?id=jordidogo_Pr5-JUnitAirport)
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=jordidogo_Pr5-JUnitAirport)](https://sonarcloud.io/summary/new_code?id=jordidogo_Pr5-JUnitAirport)
