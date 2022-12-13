@@ -4,6 +4,7 @@
 
   - flights
   - passengers
+
 Evalúe la cobertura que tienen las pruebas unitarias del código con la ayuda de SonarCloud. El proyecto software debe entregarse o estar disponible en un sistema de control de versiones como GitHub. La fecha de entrega es la que aparece en el campus de la asignatura.
 
 ### Jorge Dominguez Gonzalez (Alu0101330600@ull.edu.es)
