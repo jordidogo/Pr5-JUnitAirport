@@ -60,7 +60,7 @@ public class FlightTest {
     
     @Test
     @DisplayName("We can verify flight information and flight passengers")
-    public void testAttributesFlight() {
+    void testAttributesFlight() {
         assertAll("Verify conditions for a flight",
                 () -> assertEquals("CD8230", flight.getFlightNumber()),
                 () -> assertEquals("CD8330", flight2.getFlightNumber()),
